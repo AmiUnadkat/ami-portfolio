@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", function () {
       strings: [
         "Student",
         "Web Developer",
-        "Fronten Developer",
+        "Frontend Developer",
         "Coder",
       ],
       loop: true,
